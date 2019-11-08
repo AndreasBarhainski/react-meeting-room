@@ -4,7 +4,7 @@
   "description": "A simple web app to book meeting rooms inside an office.",
   "engines": {
     "node": "12.13.0"
-  }
+  },
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config=config/webpack.dev.js",
