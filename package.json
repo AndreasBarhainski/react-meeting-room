@@ -4,7 +4,7 @@
   "description": "A simple web app to book meeting rooms inside an office.",
   "engines": {
     "node": "12.13.0",
-    "npm": "6.x"
+    "npm": "6.0"
   },
   "main": "index.js",
   "scripts": {
